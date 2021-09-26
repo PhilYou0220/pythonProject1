@@ -1,0 +1,63 @@
+1630486749642	geckodriver	INFO	Listening on 127.0.0.1:58417
+1630486752685	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYjGucq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1630486755096	Marionette	INFO	Listening on port 58425
+1630486755312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.tapd.cn/30152737/prong/stories/view/1130152737001000581?left_tree=1, line 1000: unreachable code after return statement
+1630486781423	Marionette	INFO	Stopped listening on port 58425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1630486827567	geckodriver	INFO	Listening on 127.0.0.1:63431
+1630486830620	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepNc1AR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1630486832020	Marionette	INFO	Listening on port 63439
+1630486832130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1630486833549	Marionette	INFO	Stopped listening on port 63439
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1630486837714	geckodriver	INFO	Listening on 127.0.0.1:63483
+1630486840770	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyP61qp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1630486842173	Marionette	INFO	Listening on port 63491
+1630486842279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tdl.tapd.cn/tfl/js/compress/core|dialog|dropdown|tselect|tips|cluetip|template.js?v=3157705094&compress=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630486844791	Marionette	INFO	Stopped listening on port 63491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1630486848111	geckodriver	INFO	Listening on 127.0.0.1:63532
+1630486851170	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqGG8HN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1630486852550	Marionette	INFO	Listening on port 63540
+1630486852683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.tapd.cn/30152737/prong/stories/view/1130152737001000581?left_tree=1, line 1000: unreachable code after return statement
+1630486863714	geckodriver	INFO	Listening on 127.0.0.1:63588
+1630486866766	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMsbFyL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1630486868183	Marionette	INFO	Listening on port 63596
+1630486868275	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 87720, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630486869641	Marionette	INFO	Stopped listening on port 63596
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
